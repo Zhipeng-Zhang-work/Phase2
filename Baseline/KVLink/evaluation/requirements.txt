@@ -1,0 +1,4 @@
+rouge_score
+safetensors
+torch
+transformers==4.57.6

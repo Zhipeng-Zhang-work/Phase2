@@ -1,0 +1,13 @@
+chunk_size: 256
+local_cpu: true
+max_local_cpu_size: 400
+local_disk: null
+max_local_disk_size: 0
+save_unfull_chunk: True
+enable_blending: True
+use_layerwise: True
+blend_special_str: " # # "
+blend_pyramid_enabled: False
+blend_pyramid_beta: 20
+blend_check_layers: [1]
+blend_recompute_ratios: [0.16]
